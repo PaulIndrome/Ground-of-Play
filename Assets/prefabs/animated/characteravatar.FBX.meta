@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 0870bfe7d08c75d498ef6d9d63e437fe
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base Human001
+    100002: Base HumanHead001
+    100004: Base HumanLCalf001
+    100006: Base HumanLCollarbone001
+    100008: Base HumanLDigit11
+    100010: Base HumanLFoot001
+    100012: Base HumanLForearm001
+    100014: Base HumanLPalm001
+    100016: Base HumanLThigh001
+    100018: Base HumanLUpperarm001
+    100020: Base HumanLUpVectorNode
+    100022: Base HumanNeck003
+    100024: Base HumanNeck004
+    100026: Base HumanPelvis001
+    100028: Base HumanRCollarbone001
+    100030: Base HumanRForearm001
+    100032: Base HumanRibcage001
+    100034: Base HumanRLegCalf001
+    100036: Base HumanRLegDigit11
+    100038: Base HumanRLegFoot001
+    100040: Base HumanRLegThigh001
+    100042: Base HumanRPalm001
+    100044: Base HumanRUpperarm001
+    100046: Base HumanRUpVectorNode
+    100048: Base HumanSpine005
+    100050: Base HumanSpine006
+    100052: Base HumanSpine007
+    100054: Base HumanSpine008
+    100056: //RootNode
+    100058: Box001
+    400000: Base Human001
+    400002: Base HumanHead001
+    400004: Base HumanLCalf001
+    400006: Base HumanLCollarbone001
+    400008: Base HumanLDigit11
+    400010: Base HumanLFoot001
+    400012: Base HumanLForearm001
+    400014: Base HumanLPalm001
+    400016: Base HumanLThigh001
+    400018: Base HumanLUpperarm001
+    400020: Base HumanLUpVectorNode
+    400022: Base HumanNeck003
+    400024: Base HumanNeck004
+    400026: Base HumanPelvis001
+    400028: Base HumanRCollarbone001
+    400030: Base HumanRForearm001
+    400032: Base HumanRibcage001
+    400034: Base HumanRLegCalf001
+    400036: Base HumanRLegDigit11
+    400038: Base HumanRLegFoot001
+    400040: Base HumanRLegThigh001
+    400042: Base HumanRPalm001
+    400044: Base HumanRUpperarm001
+    400046: Base HumanRUpVectorNode
+    400048: Base HumanSpine005
+    400050: Base HumanSpine006
+    400052: Base HumanSpine007
+    400054: Base HumanSpine008
+    400056: //RootNode
+    400058: Box001
+    2100000: No Name
+    2300000: Base HumanHead001
+    2300002: Base HumanLCalf001
+    2300004: Base HumanLCollarbone001
+    2300006: Base HumanLDigit11
+    2300008: Base HumanLFoot001
+    2300010: Base HumanLForearm001
+    2300012: Base HumanLPalm001
+    2300014: Base HumanLThigh001
+    2300016: Base HumanLUpperarm001
+    2300018: Base HumanNeck003
+    2300020: Base HumanNeck004
+    2300022: Base HumanPelvis001
+    2300024: Base HumanRCollarbone001
+    2300026: Base HumanRForearm001
+    2300028: Base HumanRibcage001
+    2300030: Base HumanRLegCalf001
+    2300032: Base HumanRLegDigit11
+    2300034: Base HumanRLegFoot001
+    2300036: Base HumanRLegThigh001
+    2300038: Base HumanRPalm001
+    2300040: Base HumanRUpperarm001
+    2300042: Base HumanSpine005
+    2300044: Base HumanSpine006
+    2300046: Base HumanSpine007
+    2300048: Base HumanSpine008
+    2300050: Box001
+    3300000: Base HumanHead001
+    3300002: Base HumanLCalf001
+    3300004: Base HumanLCollarbone001
+    3300006: Base HumanLDigit11
+    3300008: Base HumanLFoot001
+    3300010: Base HumanLForearm001
+    3300012: Base HumanLPalm001
+    3300014: Base HumanLThigh001
+    3300016: Base HumanLUpperarm001
+    3300018: Base HumanNeck003
+    3300020: Base HumanNeck004
+    3300022: Base HumanPelvis001
+    3300024: Base HumanRCollarbone001
+    3300026: Base HumanRForearm001
+    3300028: Base HumanRibcage001
+    3300030: Base HumanRLegCalf001
+    3300032: Base HumanRLegDigit11
+    3300034: Base HumanRLegFoot001
+    3300036: Base HumanRLegThigh001
+    3300038: Base HumanRPalm001
+    3300040: Base HumanRUpperarm001
+    3300042: Base HumanSpine005
+    3300044: Base HumanSpine006
+    3300046: Base HumanSpine007
+    3300048: Base HumanSpine008
+    3300050: Box001
+    4300000: Base HumanPelvis001
+    4300002: Base HumanLThigh001
+    4300004: Base HumanLCalf001
+    4300006: Base HumanLFoot001
+    4300008: Base HumanLDigit11
+    4300010: Base HumanRLegThigh001
+    4300012: Base HumanRLegCalf001
+    4300014: Base HumanRLegFoot001
+    4300016: Base HumanRLegDigit11
+    4300018: Base HumanSpine005
+    4300020: Base HumanSpine006
+    4300022: Base HumanSpine007
+    4300024: Base HumanSpine008
+    4300026: Base HumanRibcage001
+    4300028: Base HumanLCollarbone001
+    4300030: Base HumanLUpperarm001
+    4300032: Base HumanLForearm001
+    4300034: Base HumanLPalm001
+    4300036: Base HumanRCollarbone001
+    4300038: Base HumanRUpperarm001
+    4300040: Base HumanRForearm001
+    4300042: Base HumanRPalm001
+    4300044: Base HumanNeck003
+    4300046: Base HumanNeck004
+    4300048: Base HumanHead001
+    4300050: Box001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
